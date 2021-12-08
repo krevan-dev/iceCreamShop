@@ -1,0 +1,17 @@
+header {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+/* Footer CSS Snippet */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex-grow: 1;
+}
+
+/* Footer CSS Snippet */
